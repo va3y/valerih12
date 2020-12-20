@@ -19,7 +19,7 @@ The lib I use for telegram chatbots: `aiogram`
 
 📖Learning: 
 
-`Full MEVN stack` `Three.js` 
+`Full MEVN stack` `Three.js` `Firebase`
 
 `REST and APIs in general` `wannabe fullstack dev`
 
