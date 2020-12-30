@@ -13,15 +13,15 @@
 
 📚Actively using in my own projects:
 
-`Vue.js` `Express` `SASS`
+`Vue.js` `Express` `SASS` `Firebase` `Ionic`
 
 The lib I use for telegram chatbots: `aiogram`
 
 📖Learning: 
 
-`Full MEVN stack` `Three.js` `Firebase`
+`Full MEVN stack` `Three.js` `Flutter`
 
-`REST and APIs in general` `wannabe fullstack dev`
+`REST and GraphQL` `wannabe fullstack dev`
 
 
 
