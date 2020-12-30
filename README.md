@@ -19,9 +19,9 @@ The lib I use for telegram chatbots: `aiogram`
 
 📖Learning: 
 
-`Full MEVN stack` `Three.js` `Flutter`
+`Three.js` `Flutter`
 
-`REST and GraphQL` `wannabe fullstack dev`
+`REST and GraphQL` `Full MEVN stack` 
 
 
 
