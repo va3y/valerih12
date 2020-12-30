@@ -1,6 +1,6 @@
 ## Greetings!
 
-🧑‍💻I'm a beginnner self-taught web developer, building web apps that can do more than the regular Wix template. My goal is to create native app-like experience in your browser. Open to collaborations 🏄‍
+🧑‍💻I'm a beginner web developer, building web apps that can do more than the regular Wix template. My goal is to create native app-like experience in your browser. Open to collaborations 🏄‍
 
 
 📫 Contacts: 
