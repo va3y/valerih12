@@ -13,7 +13,7 @@
 
 📚Actively using in my own projects:
 
-`Vue.js` `Express` `SASS` `Firebase` `Ionic`
+`Vue.js` `Express` `Tailwind` `Firebase` `Ionic`
 
 The lib I use for telegram chatbots: `aiogram`
 
