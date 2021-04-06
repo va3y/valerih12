@@ -1,6 +1,6 @@
 ## Greetings!
 
-🧑‍💻I'm a beginner web developer, building web apps that can do more than the regular Wix template. My goal is to create native app-like experience in your browser. Open to collaborations 🏄‍
+🧑‍💻I'm a web developer, building web apps that can do more than the regular Wix template. My goal is to create native app-like experience in your browser. Open to collaborations 🏄‍
 
 
 📫 Contacts: 
@@ -13,7 +13,7 @@
 
 📚Actively using in my own projects:
 
-`Vue.js` `Express` `Tailwind` `Firebase` `Ionic`
+`Vue.js` `Express` `Tailwind` `Firebase` `Ionic` `Quasar` `Vuetify` `d3js`
 
 The lib I use for telegram chatbots: `aiogram`
 
