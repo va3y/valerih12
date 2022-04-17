@@ -3,26 +3,24 @@
 🧑‍💻I'm a web developer, building web apps that can do more than the regular Wix template. My goal is to create native app-like experience in your browser. Open to collaborations 🏄‍
 
 
-📫 Contacts: 
 
-[Facebook](https://www.facebook.com/valeriyivanovv/)
 
-[Telegram](https://t.me/valerih12)
 
-💬 Write me if you have a cool website/user experience idea in mind. 
+My favorite stack right now:
 
-📚Actively using in my own projects:
+`Next` `Prisma` `Tailwind` `tRPC` `Zustand` Heavily inspired by [init.tips](https://init.tips/)
 
-`Vue.js` `Express` `Tailwind` `Firebase` `Ionic` `Quasar` `Vuetify` `d3js`
+My second favorite stack:
 
-The lib I use for telegram chatbots: `aiogram`
+`Nuxt 3` `Pinia` `Tailwind` `Supabase`
 
-📖Learning: 
 
-`Three.js` `React`
 
-`REST and GraphQL` `Full MEVN stack` 
+### 📫 Contacts: 
 
+You can hit me up on [Telegram](https://t.me/valerih12)
+
+email: valerih333@gmail.com
 
 
 
